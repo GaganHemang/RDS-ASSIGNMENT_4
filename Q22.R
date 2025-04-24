@@ -1,2 +1,2 @@
-df<-data.frame(Name = c("Revu","Deppu","Lily"),Score = c(90))
+df<-data.frame(Name = c("Gagan","Dilip","Nithin"),Score = c(90))
 df
