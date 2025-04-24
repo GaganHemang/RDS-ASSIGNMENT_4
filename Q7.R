@@ -1,3 +1,3 @@
-df<-data.frame(Name=c("Revu","Deppu"),
-               Age=c(25,20))
+df<-data.frame(Name=c("Gagan","Nithin"),
+               Age=c(18,20))
 df
